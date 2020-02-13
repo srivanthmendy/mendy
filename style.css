@@ -1,0 +1,198 @@
+#full
+{
+background-color:#ffffed;
+width:54%;
+height:890px;
+margin:0px auto;
+}
+#header img
+{
+backgroundcolor:white;
+width:30%;
+height:70px;
+margin-left:270px;
+padding:10px;
+}
+#second img
+{
+width:26%;
+height:385px;
+margin-left:5px;
+float:left;
+padding:10px;
+}
+#third p
+{
+font-size:10px;
+color:black;
+width:40;
+padding:7px;
+margin-right:84px;
+float:right;
+}
+#four ul li
+{
+font-size:10px;
+color:black;
+margin-right:30px;
+float:right;
+padding:3px;
+}
+#five img
+{
+width:65%;
+height:235px;
+margin-right:10px;
+float:right;
+padding:5px;
+}
+
+#six p
+{
+width:66%;
+font-size:10px;
+color:black;
+margin-right:10px;
+float:right;
+}
+
+#seven p
+{
+font-size:8px;
+color:black;
+margin:0;
+padding:0;
+text-align:center;
+position:absolute;
+top:71%;
+left:50%;
+transform:translate(-50%);
+}
+#eight img
+{
+width:45%;
+height:180px;
+display:block;
+position:absolute;
+top:74%;
+transform:translate(+8%);
+}
+#nine p
+{
+font-size:9px;
+color:black;
+margin:0;
+padding:0;
+text-align:center;
+position:absolute;
+top:100%;
+left:50%;
+transform:translate(-50%);
+}
+#ten hr
+{
+border-top:1px solid #9b1c31;
+width:50%;
+position:absolute;
+top:102%;
+left:50%;
+transform:translate(-50%);
+}
+#eleven
+{
+font-size:10px;
+color:black;
+margin:0;
+padding:0;
+text-align:center;
+position:absolute;
+top:103%;
+left:50%;
+transform:translate(-50%);
+}
+#twe p
+{
+font-size:8px;
+color:black;
+margin:0;
+padding:0;
+text-align:center;
+position:absolute;
+top:108%;
+left:50%;
+transform:translate(-50%);
+}
+#xy
+{
+width:52%;
+background-color:red;
+height:75px;
+top:113%;
+left:50%;
+position:absolute;
+transform:translate(-50%);
+}
+#aa p
+{
+font-size:12px;
+color:white;
+margin-left:-220px;
+padding:0;
+position:absolute;
+top:114.5%;
+left:50%;
+transform:translate(-80%);
+}
+#bb a
+{
+font-size:14px;
+color:white;
+margin-left:10px;
+padding:0;
+position:absolute;
+top:116%;
+left:50%;
+transform:translate(-55%);
+}
+#cc a
+{
+font-size:14px;
+color:white;
+float:right;
+padding:0;
+position:absolute;
+top:116%;
+transform:translate(330%);
+}
+#dd img
+{
+width:1%;
+height:20px;
+margin-left:-312px;
+padding:0;
+position:absolute;
+top:115%;
+left:50%;
+transform:translate(-80%);
+}
+#ee img
+{
+width:1%;
+height:20px;
+margin-left:-90px;
+padding:0;
+position:absolute;
+top:115%;
+left:50%;
+transform:translate(-55%);
+}
+#ff img
+{
+width:1%;
+height:20px;
+margin-left:310px;
+padding:0;
+position:absolute;
+top:115%;
+transform:translate(330%);
+}
